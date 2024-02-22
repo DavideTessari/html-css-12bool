@@ -1,0 +1,15 @@
+.box {
+    background-color: #016DFA;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #fff;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box .box {
+    background-color: #00E265; 
+    border: 7px solid #016DFA;
+}
